@@ -27,6 +27,6 @@
 
 - 🔭 I’m currently working on App Development
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: [Twitter: @keivalyap](https://twitter.com/keivalyap) [Instagram: @keivalya](https://instagram.com/keivalya)
+- 📫 How to reach me: [Instagram: @keivalya](https://instagram.com/keivalya)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm Iron Man
