@@ -1,6 +1,3 @@
-
-### Hi there 👋
-
 ## 🙏🏻Namaste, I'm [Keivalya Pandya](https://keivalya.github.io/)👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keivalya&label=Views&color=blue&style=plastic" alt="keivalya" /> </p>
 
