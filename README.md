@@ -1,6 +1,5 @@
 ## 🙏🏻Namaste, I'm [Keivalya Pandya](https://keivalya.github.io/)👋
 
-<br>
 
 [![Twitter: keivalyap](https://img.shields.io/twitter/follow/keivalyap?style=social)](https://twitter.com/keivalyap)
 [![Linkedin: keivalya](https://img.shields.io/badge/-keivalya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keivalya/)](https://www.linkedin.com/in/keivalya/)
