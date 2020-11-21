@@ -1,5 +1,4 @@
 ## 🙏🏻Namaste, I'm [Keivalya Pandya](https://keivalya.github.io/)👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keivalya&label=Views&color=blue&style=plastic" alt="keivalya" /> </p>
 
 <a href="https://twitter.com/keivalyap">
   <img align="left" alt="Keivalya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
