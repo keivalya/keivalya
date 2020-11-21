@@ -1,12 +1,15 @@
 ## 🙏🏻Namaste, I'm [Keivalya Pandya](https://keivalya.github.io/)👋
 
-
-[![Twitter: keivalyap](https://img.shields.io/twitter/follow/keivalyap?style=social)](https://twitter.com/keivalyap)
 [![Linkedin: keivalya](https://img.shields.io/badge/-keivalya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keivalya/)](https://www.linkedin.com/in/keivalya/)
+[![Instagram: keivalya](https://img.shields.io/badge/keivalya-red?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/keivalya/)](https://instagram.com/keivalya/)
+[![Facebook: Keivalya](https://img.shields.io/badge/keivalya-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/keivalya/)
 
-- 🔭 I’m currently working on App Development
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me: [Instagram: @keivalya](https://instagram.com/keivalya)
+- 🔭 I’m currently working on certain projects
+- 👨🏻‍💻 Happiest person in Technology
+- 🦾 Persuing *Mechanical Engineering*
+- 🎓 from *Birla Vishvakarma Mahavidyalaya*
+- 🌱 I’m *always* learning
+- 📫 How to reach me: writing letters will be appreciated
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm Iron Man
 
