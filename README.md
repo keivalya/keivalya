@@ -13,19 +13,3 @@
 - ⚡ Fun fact: I'm Iron Man
 
 <br>
-
-<a href="https://twitter.com/keivalyap">
-  <img align="left" alt="Keivalya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/keivalya">
-  <img align="left" alt="Keivalya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/keivalya">
-  <img align="left" alt="keivalya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/keivalya/">
-  <img align="left" alt="Keivalya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/keivalya/">
-  <img align="left" alt="Keivalya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
