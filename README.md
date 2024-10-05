@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on certain projects
 - 👨🏻‍💻 Happiest person in Technology
-- 🦾 Persuing *Mechanical Engineering*
-- 🎓 from *Birla Vishvakarma Mahavidyalaya*
+- 🦾 Persuing *MS in Robotics* with concentration in *Computer Science*
+- 🎓 from *Northeastern University, Boston, MA*
 - 🌱 I’m *always* learning
 - 📫 How to reach me: writing letters will be appreciated
 - 😄 Pronouns: He/Him/His
