@@ -1,4 +1,4 @@
-## 🙏🏻Namaste, I'm [Keivalya Pandya](https://keivalya.github.io/)👋
+## 🙏🏻Namaste, I'm [Keivalya Pandya](https://www.keivalya.com/)👋
 
 [![Linkedin: keivalya](https://img.shields.io/badge/-keivalya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keivalya/)](https://www.linkedin.com/in/keivalya/)
 [![Instagram: keivalya](https://img.shields.io/badge/keivalya-red?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/keivalya/)](https://instagram.com/keivalya/)
