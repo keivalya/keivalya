@@ -2,7 +2,6 @@
 
 [![Linkedin: keivalya](https://img.shields.io/badge/-keivalya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keivalya/)](https://www.linkedin.com/in/keivalya/)
 [![Instagram: keivalya](https://img.shields.io/badge/keivalya-red?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/keivalya/)](https://instagram.com/keivalya/)
-[![Facebook: Keivalya](https://img.shields.io/badge/keivalya-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/keivalya/)
 
 - 🔭 I’m currently working on certain projects
 - 👨🏻‍💻 Happiest person in Technology
