@@ -7,7 +7,7 @@
 - 🌱 I’m *always* learning
 - 📫 How to reach me: writing letters will be appreciated
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm Iron Man
+- ⚡ Fun fact: I'm Iron Man!
 
 <br>
 
