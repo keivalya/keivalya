@@ -1,6 +1,5 @@
 ## 🙏🏻Namaste, I'm [Keivalya Pandya](https://www.keivalya.com/)👋
 
-- 👨🏻‍💻 Happiest person in Technology
 - 🔭 Graduate Research Apprentice @ People and Robot Collaborative Systems (PARCS) Lab
 - 🧑🏻‍🏫 Graduate Teaching Assistant @ CS5180 (Reinforcement Learning and Sequential Decision Making)
 - 🦾 Persuing *MS in Robotics* with concentration in *Computer Science*
