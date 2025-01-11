@@ -1,4 +1,4 @@
-## 🙏🏻Namaste, I'm [Keivalya Pandya](https://www.keivalya.com/)👋
+## *Namaste*, I'm [Keivalya Pandya](https://www.keivalya.com/) 👋
 
 - 🔭 Graduate Research Apprentice @ People and Robot Collaborative Systems (PARCS) Lab
 - 🧑🏻‍🏫 Graduate Teaching Assistant @ CS5180 (Reinforcement Learning and Sequential Decision Making)
