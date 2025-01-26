@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm Iron Man!
 
-<br>
+
 
 
 [![Linkedin: keivalya](https://img.shields.io/badge/-keivalya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keivalya/)](https://www.linkedin.com/in/keivalya/)
