@@ -1,6 +1,6 @@
 ## *Namaste*, I'm [Keivalya Pandya](https://www.keivalya.com/) 👋
 
-- 🔭 Graduate Research Apprentice @ People and Robot Collaborative Systems (PARCS) Lab
+- 🔭 Graduate Research Apprentice @ People and Robot Collaborative Systems (PARCS) Lab, working on Human-Robot-Interaction (HRI) under Prof. Zhi Tan.
 - 🧑🏻‍🏫 Graduate Teaching Assistant @ CS5180 (Reinforcement Learning and Sequential Decision Making)
 - 🦾 Persuing *MS in Robotics* with concentration in *Computer Science*
 - 🎓 from *Khoury College of Computer Science, Northeastern University, Boston, MA*
