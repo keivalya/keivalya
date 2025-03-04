@@ -1,4 +1,4 @@
-## *Namaste*, I'm [Keivalya Pandya](https://www.keivalya.com/) 👋
+## *Namaste*, I'm [Keivalya Pandya](https://keivalya.com/) 👋
 
 - 🔭 Graduate Research Apprentice @ People and Robot Collaborative Systems (PARCS) Lab, working on Human-Robot-Interaction (HRI) under Prof. Zhi Tan.
 - 🧑🏻‍🏫 Graduate Teaching Assistant @ CS5180 (Reinforcement Learning and Sequential Decision Making)
