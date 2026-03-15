@@ -1,6 +1,6 @@
 ## *Namaste*, I'm [Keivalya Pandya](https://keivalya.com/) 👋
 
-- 🔭 Graduate Research Assistant @ People and Robot Collaborative Systems (PARCS) Lab, working on Human-Robot-Interaction (HRI)
+- 🔭 Researcher @ People and Robot Collaborative Systems (PARCS) Lab, working on Human-Robot-Interaction (HRI)
 - 🦾 Persuing *MS in Robotics* with concentration in *Computer Science*
 - 🎓 from *Khoury College of Computer Science, Northeastern University, Boston, MA*
 - 🌱 I’m *always* learning
